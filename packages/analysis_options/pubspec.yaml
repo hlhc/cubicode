@@ -1,0 +1,7 @@
+name: analysis_options
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+topics: [lints, analyzer, analysis]
+environment:
+  sdk: '>=3.1.5 <4.0.0'

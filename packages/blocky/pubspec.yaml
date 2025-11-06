@@ -1,0 +1,32 @@
+name: blocky
+description: A Blocky like element for mobile user interface
+version: 0.0.1
+homepage:
+publish_to: none
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+  flutter: ">=1.17.0"
+dependencies:
+  audioplayers: ^6.5.1
+  async: ^2.13.0
+  collection: ^1.15.0
+  crypto: ^3.0.3
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  freezed_annotation: ^3.1.0
+  geolocator: ^14.0.2
+  json_annotation: ^4.9.0
+  meta: ^1.16.0
+  uuid: ^4.2.1
+dev_dependencies:
+  analysis_options:
+    path: ../analysis_options
+  build_runner: ^2.4.6
+  flutter_test:
+    sdk: flutter
+  freezed: ^3.2.3
+  json_serializable: ^6.11.1
+  mocktail: ^1.0.1
+
+flutter:

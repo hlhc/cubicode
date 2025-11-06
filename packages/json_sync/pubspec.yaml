@@ -1,0 +1,16 @@
+name: json_sync
+description: A simple json storage sync made for dart
+version: 0.0.1
+homepage:
+publish_to: none
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^9.0.0
+  shared_preferences: ^2.2.2
+dev_dependencies:
+  analysis_options:
+    path: ../analysis_options
+  test: ^1.17.11

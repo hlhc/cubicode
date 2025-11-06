@@ -1,0 +1,26 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "invalidEmail": "Invalid Email",
+    "invalidPassword": "Invalid Password",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "learnLabel": "Learn",
+    "playgroundLabel": "Playground",
+    "profileLabel": "Profile",
+    "guestProfileDisplayName": "Guest",
+    "logOutButtonLabel": "Logout",
+    "noTopicsMessage": "No topics found",
+    "getTopicsFailureMessage": "Failed to get topics to learn",
+    "galleryLabel": "Gallery",
+    "delete": "Delete",
+    "exploreLabel": "Explore",
+    "noGalleryMessage": "No code found in the gallery. Create your first program.",
+    "noExploreMessage": "No one have shared their code. Be the first one to share.",
+    "getGalleryFailureMessage": "Failed to get topics to learn",
+    "getExploreFailureMessage": "Failed to get topics to learn"
+}

@@ -1,0 +1,30 @@
+name: authentication_repository
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+publish_to: none
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+  flutter: ">=1.17.0"
+dependencies:
+  cache:
+    path: ../cache
+  firebase_auth: ^6.1.2
+  firebase_core: ^4.2.1
+  cloud_firestore: ^6.1.0
+  flutter:
+    sdk: flutter
+  freezed_annotation: ^3.1.0
+  google_sign_in: ^7.2.0
+  json_annotation: ^4.9.0
+  meta: ^1.16.0
+  rxdart: ^0.28.0
+dev_dependencies:
+  analysis_options:
+    path: ../analysis_options
+  build_runner: ^2.4.6
+  flutter_test:
+    sdk: flutter
+  freezed: ^3.2.3
+  json_serializable: ^6.7.1
+  mocktail: ^1.0.1

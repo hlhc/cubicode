@@ -1,0 +1,11 @@
+name: cache
+description: A simple in memory cache made for dart
+version: 0.0.1
+homepage:
+publish_to: none
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+dev_dependencies:
+  analysis_options:
+    path: ../analysis_options
+  test: ^1.17.11
